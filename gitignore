@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+.DS_Store
+
+# secrets - never commit
+secrets.h
+.env
+*.key
+
+# local logs / models
+*.log
+m.pkl
